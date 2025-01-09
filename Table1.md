@@ -59,3 +59,5 @@
 | Syria                 | 72       | 2           |      |
 | Tunisia               | 9        |             |      |
 | Turkey                | 15       | 5           |      |
+
+**Table 1.** The 59 locations and the number of texts attributed to them in the training, the development, and the test sets.
