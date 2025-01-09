@@ -39,3 +39,5 @@
 | EgyptU22               | 22       | 2           |       |
 | EgyptWesternCoast      | 1161     |             |       |
 | EgyptWesternDesert     | 2128     | 19          | 13    |
+
+**Table 2.** The 39 locations used in the second location classification experiment.
